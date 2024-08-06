@@ -73,11 +73,11 @@ ul li::before{
     top: 12px;
     left: 8px;
 }
-ul li.Checked{
+ul li.checked{
     color: 555;
     text-decoration: line-through;
 }
-ul li.Checked::before{
+ul li.checked::before{
     background-image: url(images/checked.png);   
 }
 ul li span{
